@@ -1,0 +1,17 @@
+.education_content {
+    display: flex;
+}
+
+.dotted_line {
+    /* background: pink; */
+    margin-left: 1rem;
+}
+
+.info1 {
+    /* background-color: pink; */
+    margin-left: 25%;
+}
+
+.info2 {
+    margin-top: 12.5rem;
+}

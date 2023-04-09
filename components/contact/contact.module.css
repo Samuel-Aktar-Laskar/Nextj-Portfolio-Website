@@ -1,0 +1,22 @@
+.content {
+    display: flex;
+    height: 30rem;
+}
+
+.left {
+    /* background-color: rgb(175, 210, 240); */
+    height: 30rem;
+    width: auto;
+    margin-left: 27%;
+}
+
+.right {
+    /* background-color: rgb(252, 196, 252); */
+    width: 20rem;
+    height: 30rem;
+    margin-left: 2rem;
+}
+
+.heading {
+    text-align: center;
+}

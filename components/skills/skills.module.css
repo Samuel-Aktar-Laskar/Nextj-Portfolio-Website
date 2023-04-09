@@ -1,0 +1,19 @@
+.skills_info {
+    display: grid;
+    grid-template-columns: 45% 45%;
+    justify-content: space-evenly;
+    row-gap: 3rem;
+}
+
+.frontend_item {
+    justify-self: end;
+}
+.backend_item {
+    justify-self: start;
+}
+.android {
+    justify-self: end;
+}
+.languages {
+    justify-self: start;
+}

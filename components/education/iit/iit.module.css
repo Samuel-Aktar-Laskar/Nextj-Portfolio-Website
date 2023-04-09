@@ -1,0 +1,31 @@
+.EducationInfoArea {
+    background-color: white;
+    width: 30rem;
+    height: 12rem;
+    border-radius: 1.5rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    display: flex;
+}
+
+.qualification_icon {
+    font-size: 1.5rem;
+    color: black;
+    margin-right: 0.5rem;
+}
+
+.iit_name {
+
+}
+
+.line {
+    margin-left: 0rem;
+}
+.label {
+    
+}
+
+.value {
+    font-weight: bold;
+    color: rgb(103, 103, 103);
+}

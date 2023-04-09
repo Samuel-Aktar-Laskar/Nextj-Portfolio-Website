@@ -1,0 +1,37 @@
+.area {
+    width: 18rem;
+    height :10rem;
+    margin-top: 1rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    transition: all 0.1s ease-in-out;
+}
+.area:hover {
+    transform: scale(1.1);
+    
+}
+
+.icon {
+    font-size: 2rem;
+    margin-left: 50%;
+    transform: translate(-50%,0%);
+    margin-top: 15%;
+    width: 2rem;
+    /* background-color: pink; */
+    justify-self: center;
+}
+
+.card_title {
+    /* background-color: yellow; */
+    align-self: center;
+    color: black;
+    font-weight: bold;
+}
+
+.subtitle {
+    align-self: center;
+    font-size: 0.8rem;
+}
